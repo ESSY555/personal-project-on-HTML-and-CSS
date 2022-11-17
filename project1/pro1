@@ -1,0 +1,223 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        
+    
+        <title>
+            best web
+        </title>
+        
+    </head>
+    <body class="jud">
+        
+      <b>Dr Norman borlaug</b>
+   
+</div>
+<style>
+    .ade2{
+        font-size: 5px;
+    }
+    .ade3 img{
+        height:200px flex;
+    
+    
+        
+    }
+    .ade5{
+        font-size:10px;
+    }
+    .ade4{
+        font-size: 5px;
+        border: 1px solid;
+        border-radius: 20px;
+        color: red;
+        background-image: url(" immmag.jpeg ");
+        
+        
+        
+    }
+    .ade1{
+        background-image: ;
+    }
+    .ade7{
+        font-size: 5px;
+    }
+    .ade8{
+        font-size:3px;
+        line-height: 10px;
+        text-align: center;
+        width: 100px;
+        align:center;
+    }
+    .ade9:{
+        background-color: black;
+        color:white;
+        transition: background-color 0.25s;
+           box-shadow: 10px 10px 10px red;: box-shadow 0.25s, margin-left 10s;
+        border-radius: 10px;
+        border: solid;
+        cursor: pointer;
+        align:center;
+        margin-bottom: 0;
+        
+    }
+     .ade9:hover{
+        background-color: yellow;
+        color:blue;
+        
+        border-radius: 10px;
+        border: solid;
+        cursor: pointer;
+        align:center;
+        margin-bottom: 0;
+        margin-left: 30px;
+        transform: margin-left:10s;
+     }
+    .ade10{
+        font-family: Arial;
+        font-size: 10px;
+        font-weight: bold;
+        margin-top: 8;
+        margin-bottom: 0;
+    }
+    .ade11{
+        font-family: Arial;
+        font-size: 10;
+        font-weight: bold;
+        margin-top:4;
+    }
+    .ade12{
+        border:1px solid;
+        font-size: 10;
+        background-color: #FF4500;
+        padding-bottom: 10px;
+        text-align: center;
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-right:20;
+        color: white;
+        
+    
+    }
+    .ade13:hover{
+        text-decoration: underline;
+        
+    }
+    .ade13{
+        transition: text-decoration 10s;
+        
+    }
+    .ade18{
+        color:#454545;
+        font-weight: bold;
+        margin-bottom:0px;
+    }
+    .ade15{
+        color: #959595;
+        margin-top:1px;
+        
+    }
+    .ade17{
+        background-color: green;
+        color: white;
+        border:solid;
+        border-radius: 5px;
+        padding-top: 5px;
+        padding-bottom:5px;
+        text-align: center;
+        padding-left: 10px;
+        padding-right:10px;
+        
+    }
+    .ade19 img{
+        height: 200px flex;
+        margin-bottom: 0px;
+    }
+    .ade20{
+        border: 1px solid;
+        border:flex;
+        margin-top: 100px;
+    }
+    .jud{
+        background-color: #82CAFF;
+
+    }
+    
+</style>
+   <div>
+       <h1 class="ade2">
+          the man who saved a billion lives
+      </h1>
+   </div>
+ <div class="ade3">
+     <img src="images1.jpeg" alt="" />
+ </div> 
+ <div class="ade4">
+     
+     <h4 class="">Here's a timeline of Dr Borlangs Life</h4>
+     <link rel="just this" href="project5.html" title="" type="" />
+ <ul>
+    
+ 
+     <li><b>1963</b> Chosen theme: Transform the environment, including the music, into a theme enjoyed by the deceased; a cowboy, for instance, would call for a western-style funeral</li>
+<li><b>1968</b> Eulogy: Written tribute praising a person who died; usually presented by a close family member, friend or clergy
+<li><b>1970</b> Funeral Resolution: Formal written document that honors the deceased person's relationship with God
+<li><b>1978</b> 
+<font color="green"> verses that express your feelings; used when the bereaved is unable to find the right words to say or write</font>
+<li><b>1980</b> Memorial Slideshow: Collage of photos and videos outlining a person's life; typically shown during funeral or memorial services
+<li><b>1984</b> Memorial Prayer cards: This keepsake traditionally has a Bible verse, individual's birth and death dates, picture and a note from the family
+<li><b>1990</b> Candle: A gift for an immediate family member, a personalized candle comes with a specific theme and photographs of your loved one
+<li><b>1994</b> Story or anecdote: Tales and funny stories about the deceased person's childhood, married life and career
+<li><b>2000</b> Journal: Instead of the customary guestbook used at funerals and memorial services, a jtribute journal allows visitors to write a short memory or thoughts about the person who died</p>
+</ul>
+</div>
+<h5 class="ade7">Borlangs life and achievement are testimony to the far-reaching contribution that one man's towering intellect, persistence and scientific vision can make to human peace and progress."
+</h5>
+<br>
+<h6 class="ade8">-- indian prime minister mammohan singh
+
+</h6>
+</br>
+<button class="ade9">
+    summit
+</button>
+<p class="ade10">
+    3.4m views &#46 6 months ago.
+</p>
+<p class="ade11">
+    marques brownlee &#10003
+</p>
+<a class="ade12">
+    shop early for the best selection of holoday favorites 
+        
+    <span class="ade13">
+          shop now &#62
+    </span>
+    
+</a>
+<div class="ade14">
+   <p class="ade18">
+      HTML CSS COURSE
+     
+   </p> 
+   <p class="ade15">
+       Beginner to Pro
+   </p>
+   <p class="ade16">
+       in this course, we we'll learn the skills you need to become a developer.
+   </p>
+   <button class="ade17">
+       get started
+   </button>
+</div>
+<div class="ade19">
+    <img  src="  imagg.jpeg  " alt="   " />
+    
+</div>
+<a class="ade20">
+     summit2
+</a>
+  
+    </body>
+</html>
+<div>
