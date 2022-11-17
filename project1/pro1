@@ -18,7 +18,10 @@
         font-size: 5px;
     }
     .ade3 img{
-        height:200px flex;
+        height:400px;
+        margin-bottom: 0px;
+        display: flex;
+        
     
     
         
@@ -27,11 +30,23 @@
         font-size:10px;
     }
     .ade4{
-        font-size: 5px;
+        font: 80px;
         border: 1px solid;
         border-radius: 20px;
-        color: red;
         background-image: url(" immmag.jpeg ");
+        margin-top: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 30;
+        padding-top: 30px;
+        
+        height: 500px;
+        
+        width: 500px;
+        color: yellow;
+        align-content: center;
+        
+        
         
         
         
@@ -107,6 +122,11 @@
         transition: text-decoration 10s;
         
     }
+    .ade14{
+        background-image: url("imma.jpeg");
+   color: white;
+   margin-bottom: 20px;
+    }
     .ade18{
         color:#454545;
         font-weight: bold;
@@ -132,6 +152,8 @@
     .ade19 img{
         height: 200px flex;
         margin-bottom: 0px;
+        margin-top: 0px;
+        display: flex;
     }
     .ade20{
         border: 1px solid;
@@ -141,6 +163,21 @@
     .jud{
         background-color: #82CAFF;
 
+    }
+    .ade21 img{
+        display: flex;
+        padding: center;
+        float: left;
+    }
+    .ade22{
+        padding-right: 0px ;
+        padding-left: 140px;
+        color: black;
+        font-weight: bold;
+        font-family: Arial;
+        text-decoration: underline;
+        
+            
     }
     
 </style>
@@ -154,7 +191,7 @@
  </div> 
  <div class="ade4">
      
-     <h4 class="">Here's a timeline of Dr Borlangs Life</h4>
+     <h4 class="ade22">Here's a timeline of Dr Borlangs Life</h4>
      <link rel="just this" href="project5.html" title="" type="" />
  <ul>
     
@@ -171,6 +208,16 @@
 <li><b>2000</b> Journal: Instead of the customary guestbook used at funerals and memorial services, a jtribute journal allows visitors to write a short memory or thoughts about the person who died</p>
 </ul>
 </div>
+<div class="ade21">
+    
+   <div>
+       <img src="forest.jpg" alt="" /> 
+   </div>
+    <p>
+        we shall hold your hands and carry you step by step through the journey of programming until you become a pro!!!.
+    </p>
+</div>
+
 <h5 class="ade7">Borlangs life and achievement are testimony to the far-reaching contribution that one man's towering intellect, persistence and scientific vision can make to human peace and progress."
 </h5>
 <br>
@@ -214,10 +261,8 @@
     <img  src="  imagg.jpeg  " alt="   " />
     
 </div>
-<a class="ade20">
-     summit2
-</a>
   
     </body>
 </html>
 <div>
+
